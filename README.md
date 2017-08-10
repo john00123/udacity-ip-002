@@ -1,17 +1,11 @@
 # Udacity Full Stack Developer Nanodegree Program
 #### Programming Fundamentals
 ### Making an stylish website
-Code was written to store all the list of my favorite current movies, including box art and images hoster on **Wikipedia**. Additionally there is a link to the each movie's trailer that is hoster in **Youtube**. Code is used to generate a static web page allowing browsers to be able to read the information on a index.html file.
+Using HTML and CSS I created a website of my choice. The project is evaluated by the basic use of HTML and CSS structures, no specific formating was required at this point of the Nanodegree.
 
-###### Website functionality
-The website allows you to navigate through a grid base interface of box art imagery. Once a movie has been selected, there movie trailer will be shown to the user.
+###### Code Validation
+Use of Syntax: 
+All of your HTML and CSS should be properly formatted and should pass HTML validation and CSS validation tests.
 
 ### Developer notes:
-The project was built using python.
-The movie variables has been created by using Classes.  ```media.py```.
-Then the ```fresh_tomatoes.py``` file defines the html with styles to be created.
-
-There are 3 files in this project:
- - entretainment_center.py - has the main information for the movies metadata.
- - media.py -  uses browser library to open a popup using the classes provided.
- - fresh_tomatoes.py - has the code to render an HTML site using media and entretainment_center.py
+The project consists of and HTML and CSS, additionally there is some images added to the project to build styles for the website.
