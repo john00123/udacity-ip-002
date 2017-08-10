@@ -8,4 +8,6 @@ Use of Syntax:
 All of your HTML and CSS should be properly formatted and should pass HTML validation and CSS validation tests.
 
 ### Developer notes:
-The project consists of and HTML and CSS, additionally there is some images added to the project to build styles for the website.
+The project consists of and HTML and CSS, additionally there is some images added to the project to build styles for the website. 
+To see website go to [udacity002](http://john00123.githib.io/udacity002)
+
